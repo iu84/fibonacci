@@ -13,10 +13,3 @@ function fib(n) {
  for (let i = 0; i <= 40; i++) {
      console.log(fib(i));
  }
-
-// function fib(n) {
-    // console.log( n + "のフィッボナッチ数はxxxです" );
-// }
-// for (let i = 1; i <= 40; i++) {
-//  fib(i);
-// }
